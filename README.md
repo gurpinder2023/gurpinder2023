@@ -2,7 +2,7 @@
 
 # Hi, I'm Gurpinder kaur! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer rand BCIT student with hands-on experience in cloud computing, DevOps, and full-stack development. I love tackling challenging problems, learning new technologies, and building impactful projects.
+Welcome to my GitHub profile! I'm a passionate software developer and BCIT student with hands-on experience in cloud computing, DevOps, and full-stack development. I love tackling challenging problems, learning new technologies, and building impactful projects.
 
 ## About Me
 - 🌍 Lives in Canada
