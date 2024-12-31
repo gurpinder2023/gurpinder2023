@@ -25,8 +25,8 @@ Here are some of my favorite projects that showcase my skills and passion:
 - **[Snake Game](#)**: Classic Python Snake Game using Pygame, featuring dynamic speed and a class-based architecture.
 
 ## Tools & Technologies
-- Languages: Python, JavaScript, Java, TypeScript, C
-- Frameworks: React, Node.js, Next.js
+- Languages: Python, JavaScript, Java, C, HTML, CSS
+- Frameworks: React, Node.js, Express.js
 - Cloud Platforms: AWS (Elastic Beanstalk, SES, S3, Cloudformation, step functions etc)
 - DevOps Tools: Docker, Kubernetes, Jenkins, EKS, ECS
 - Databases: MongoDB, DynamoDB, MySQL
