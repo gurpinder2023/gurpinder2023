@@ -34,3 +34,4 @@ Here are some of my favorite projects that showcase my skills and passion:
 ## Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/gurpinder-kaur-5331b4267/)
 - ✉️ [Email](mailto:gurpinderk714@gmail.com)
+- 🌐 [Website](https://www.gurpinderkaur.com/)
